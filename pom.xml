@@ -37,6 +37,7 @@
 
     <!-- Package as an executable jar -->
     <build>
+        <finalName>springboot-web</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
